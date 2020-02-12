@@ -10,6 +10,8 @@
 
 - [在 GitHub 上阅读 Markdown 版本](./source/poem_64.md)
 
+- [在 GitHub 上阅读 PDF 文件](./releases/poem_64.pdf)
+
 - [下载 PDF 文件](https://github.com/ReekyStive/poem_64/releases/download/v1.0/poem_64.pdf)
 
 或者，可以通过点击下方索引中的文字快速跳转到指定篇目。
