@@ -4,7 +4,21 @@
 
 内容收集自网络，由 ReekyStive 整理
 
+## Quick Start
+
+选择一个选项以开始阅读：
+
+- [在 GitHub 上阅读 Markdown 版本](./source/poem_64.md)
+
+- [下载 PDF 文件](https://github.com/ReekyStive/poem_64/releases/download/v1.0/poem_64.pdf)
+
+----
+
+`source` 文件夹中还提供了用于生成 PDF 文件的 **docx**（Microsoft Office）文件。
+
 如果有关于排版、内容等的问题，可以在 Issue 中提出！
+
+----
 
 ## 收录的篇目
 
